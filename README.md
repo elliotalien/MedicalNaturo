@@ -36,15 +36,6 @@ Check out the live preview of the project: [FlexProject Live Preview](https://el
 | <img src="https://github.com/elliotalien/FlexProject/blob/main/preview/https---elliotalien.github.io-FlexProject--LaptopLarge-1705057614997.png" width="100%"> | <img src="https://github.com/elliotalien/FlexProject/blob/main/preview/https---elliotalien.github.io-FlexProject--MobileMedium-1705057699694.png" width="100%"> | <img src="https://github.com/elliotalien/FlexProject/blob/main/preview/https---elliotalien.github.io-FlexProject--Tablet-1705057663126.png" width="100%"> |
 
 
-## Screenshots
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/elliotalien/FlexProject/blob/main/preview/https---elliotalien.github.io-FlexProject--LaptopLarge-1705057614997.png" width="30%">
-  <img src="https://github.com/elliotalien/FlexProject/blob/main/preview/https---elliotalien.github.io-FlexProject--MobileMedium-1705057699694.png" width="30%">
-  <img src="https://github.com/elliotalien/FlexProject/blob/main/preview/https---elliotalien.github.io-FlexProject--Tablet-1705057663126.png" width="30%">
-</div>
-
-
 ## Contributing
 
 If you'd like to contribute to this project, please follow these steps:
