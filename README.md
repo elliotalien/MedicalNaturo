@@ -28,9 +28,8 @@ Check out the live preview of the project: [FlexProject Live Preview](https://el
 2. Open the `index.html` file in a web browser.
 
 ## Screenshots
-![FlexProject Preview](https://raw.githubusercontent.com/elliotalien/FlexProject/main/preview/https---elliotalien.github.io-FlexProject---1705057614997.png)
 
-[Add screenshots or gifs showcasing your website on different devices]
+<img src="https://github.com/elliotalien/FlexProject/blob/main/preview/https---elliotalien.github.io-FlexProject--LaptopLarge-1705057614997.png">
 
 ## Contributing
 
