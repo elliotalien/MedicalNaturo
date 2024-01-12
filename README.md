@@ -29,7 +29,7 @@ Check out the live preview of the project: [FlexProject Live Preview](https://el
 
 ## Screenshots
 
-<img src="https://github.com/elliotalien/FlexProject/blob/main/preview/https---elliotalien.github.io-FlexProject--LaptopLarge-1705057614997.png" height="50px" width="50px">
+<img src="https://github.com/elliotalien/FlexProject/blob/main/preview/https---elliotalien.github.io-FlexProject--LaptopLarge-1705057614997.png" height="50%" width="50%">
 
 ## Contributing
 
