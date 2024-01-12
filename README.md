@@ -29,9 +29,12 @@ Check out the live preview of the project: [FlexProject Live Preview](https://el
 
 ## Screenshots
 
-<img  src="https://github.com/elliotalien/FlexProject/blob/main/preview/https---elliotalien.github.io-FlexProject--LaptopLarge-1705057614997.png" height="50%" width="50%" float="left">
-<img src="https://github.com/elliotalien/FlexProject/blob/main/preview/https---elliotalien.github.io-FlexProject--MobileMedium-1705057699694.png" height="50%" width="50%" float="left" >
-<img src="https://github.com/elliotalien/FlexProject/blob/main/preview/https---elliotalien.github.io-FlexProject--Tablet-1705057663126.png" height="50%" width="50%" float="left">
+## Screenshots
+
+| Laptop Large | Mobile Medium | Tablet |
+|--------------|---------------|--------|
+| <img src="https://github.com/elliotalien/FlexProject/blob/main/preview/https---elliotalien.github.io-FlexProject--LaptopLarge-1705057614997.png" width="100%"> | <img src="https://github.com/elliotalien/FlexProject/blob/main/preview/https---elliotalien.github.io-FlexProject--MobileMedium-1705057699694.png" width="100%"> | <img src="https://github.com/elliotalien/FlexProject/blob/main/preview/https---elliotalien.github.io-FlexProject--Tablet-1705057663126.png" width="100%"> |
+
 ## Contributing
 
 If you'd like to contribute to this project, please follow these steps:
