@@ -56,5 +56,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [MDN Web Docs - CSS Flexible Box Layout](https://developer.mozilla.org/en/docs/Web/CSS/CSS_Flexible_Box_Layout)
 
 ---
-
-Feel free to add or modify sections based on the specific details of your project. Include information such as project structure, dependencies, installation instructions, or any additional features you'd like to highlight.
