@@ -1,4 +1,4 @@
-# FlexProject
+# Medical Naturo
 
 A responsive website demonstrating the use of CSS Flexbox.
 
